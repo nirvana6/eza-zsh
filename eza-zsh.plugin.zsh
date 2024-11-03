@@ -14,7 +14,7 @@ alias tree='eza --tree' # Tree view
 alias lS='eza --oneline' # Display one entry per line
 
 # new aliases than exa-zsh
-alias lT='eza --tree --long' # Tree view with extended details
+alias ltt='eza --tree --long' # Tree view with extended details
 alias lr='eza --recurse --all' # Recursively list all files, including hidden ones
 alias lg='eza --grid --color=always' # Display entries as a grid with color
 alias ld='eza --only-dirs' # List only directories
